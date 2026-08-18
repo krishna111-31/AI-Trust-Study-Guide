@@ -6,7 +6,6 @@ A professionally curated study guide on AI Trust, featuring fact-checked, beginn
 
 ## About
 
-Artificial Intelligence (AI) is transforming industries and becoming an integral part of modern society. As AI systems are increasingly deployed in critical domains such as healthcare, finance, education, transportation, cybersecurity, and public services, ensuring that these systems are trustworthy has become a global priority.
 
 This repository is a comprehensive study guide dedicated to **AI Trust** and related disciplines, including **Responsible AI, Human–AI Interaction (HAI), Explainable AI (XAI), AI Ethics, Privacy, Security, Fairness, Governance, and Risk Management**.
 
